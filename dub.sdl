@@ -1,0 +1,5 @@
+name "crit"
+description "Criticize is a tool for creating code review comments"
+authors "Lucas Rasmussen"
+copyright "Copyright © 2023, Lucas Rasmussen"
+license "gpl_v2"
